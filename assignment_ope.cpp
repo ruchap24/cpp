@@ -10,5 +10,6 @@ int main()
     int c=3;
     //3 is assigned to 'c' variable
     cout<<a<< endl <<b<< endl <<c;
+    //10 4 3
     return 0;
 }
