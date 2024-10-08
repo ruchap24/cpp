@@ -8,6 +8,7 @@ int main()
     int b=4;
     //4 is assigned to 'b' variable
     int c=3;
+    //3 is assigned to 'c' variable
     cout<<a<< endl <<b<< endl <<c;
     return 0;
 }
